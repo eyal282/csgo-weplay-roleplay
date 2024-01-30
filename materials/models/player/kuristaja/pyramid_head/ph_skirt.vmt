@@ -1,0 +1,16 @@
+"VertexLitGeneric" 
+{ 
+"$basetexture"	"models/player/kuristaja/pyramid_head/ph_skirt" 
+"$bumpmap" "models/player/kuristaja/pyramid_head/ph_skirt_normal" 
+
+ 	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	".1"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"
+} 

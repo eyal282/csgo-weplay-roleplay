@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/slimer/slow_slimer"
+	"$bumpmap" "models/player/kuristaja/slimer/slow_slimer_bump"
+
+	"$selfillum" 1
+	"$selfillumtint" "[.15 .15 .15]"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"5"
+	"$phongboost"		"13"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+
+	$translucent 1
+
+}

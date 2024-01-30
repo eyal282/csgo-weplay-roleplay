@@ -1,0 +1,21 @@
+vertexlitgeneric
+{
+	$baseTexture "models\player\kuristaja\ash\Ash_Torso_Diff"
+	$bumpmap "models\player\kuristaja\ash\Ash_Torso_Normal"
+
+	//"$phong" "1"
+	"$phongalbedotint" "1"
+	"$phongexponenttexture" "models\player\kuristaja\ash\Ash_Exp"
+
+       	 "$phongboost"	".5"
+	"$phongfresnelranges"	"[1 2 4]"
+	"$halflambert" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .25 .3 .25 ]"
+
+	$color2 "[ 0.5 0.5 0.5 ]"
+	$color2 "{ 1 1 1 }"
+
+	$translucent 1
+}

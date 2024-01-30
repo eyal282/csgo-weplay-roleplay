@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/spiderman/slow_head"
+	"$bumpmap"	"models/player/kuristaja/spiderman/slow_head_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost"	".1"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"
+}
+

@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/santa_fix/slow_santa_cloth"
+	"$bumpmap"	"models/player/kuristaja/santa_fix/slow_santa_cloth_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	".07"
+	"$phongfresnelranges"	"[1 1 1]"
+
+	"$detail" "models/player/kuristaja/santa_fix/slow_santa_detail"
+
+	"$rimlight"		1
+	"$rimlightexponent"		12  
+	"$rimlightboost"		0.7
+	"$rimmask"		0
+
+}

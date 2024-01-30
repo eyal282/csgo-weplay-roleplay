@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/otwd/bridger/t_player_bridger_arms_fpp_cloth_bc"
+	"$bumpmap"	"models/player/kuristaja/otwd/bridger/t_player_bridger_arms_fpp_cloth_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost"	".5"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"
+}
+

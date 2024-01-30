@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 			"models/player/kuristaja/slimer/slow_slimer"
+	"$bumpmap" 			"models/player/kuristaja/slimer/slow_slimer_bump"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"12"
+	"$phongboost"		"1.5"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar"		"$alpha"
+			"sineperiod"	"1"
+			"sinemin"		".5"
+			"sinemax"		".5"
+		}
+	}
+
+}
+

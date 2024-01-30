@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\headphones\headphones_diffuse"
+	"$bumpmap" "models\weapons\silvershot\charms\headphones\headphones_Normal"
+
+	$halflambert "1"
+	"$phongexponent" "9"
+	"$phongboost" "0.2"
+	"$phongfresnelranges"	"[.05 0.1 0.3]"
+	$nocull 1
+	$phong 1
+
+	$nodecal 1
+	$ambientocclusion 1
+	$detail "models\weapons\silvershot\charms\headphones\detail_metal"
+	$detailscale 16
+	$detailblendfactor 1.1
+	$detailblendmode 0
+}

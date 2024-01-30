@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xflane\vision_dagger\dagger_material"
+	"$surfaceprop" "plastic"
+}

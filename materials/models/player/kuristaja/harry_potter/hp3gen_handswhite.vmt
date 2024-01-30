@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/harry_potter/hp3gen_handswhite"
+	"$bumpmap" "models/player/kuristaja/harry_potter/hp3gen_handswhite_normal"
+}

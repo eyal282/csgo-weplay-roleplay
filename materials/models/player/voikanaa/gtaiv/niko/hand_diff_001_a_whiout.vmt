@@ -1,0 +1,15 @@
+vertexlitgeneric
+{
+	$basetexture "models/player/voikanaa/gtaiv/niko/hand_diff_001_a_whiout"
+	$bumpmap "models/player/voikanaa/gtaiv/niko/hand_normal_001out"
+
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongExponent" "20"  
+	"$phongFresnelRanges" "[0 0.5 1]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" ".1"
+}

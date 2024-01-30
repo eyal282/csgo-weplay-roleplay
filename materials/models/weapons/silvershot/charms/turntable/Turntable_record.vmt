@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\turntable\vinyl_Diffuse"
+	"$bumpmap" "models\weapons\silvershot\charms\turntable\vinyl_Normal"
+	$phongexponenttexture "models\weapons\silvershot\charms\turntable\vinyl_specular"
+
+	$halflambert "1"
+	$phongexponent "40"
+	$phongfresnelranges	"[1 8 13]"
+	$nocull 1
+	$phong 1
+	$phongboost .15
+	$nodecal 1
+	$ambientocclusion 1
+	$detail "models\weapons\silvershot\charms\turntable\detail_metal"
+	$detailscale 16
+	$detailblendfactor 1.1
+	$detailblendmode 0
+}

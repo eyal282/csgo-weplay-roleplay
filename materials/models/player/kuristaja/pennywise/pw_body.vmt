@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models/player/kuristaja/pennywise/pw_body"
+	"$bumpmap"	"models/player/kuristaja/pennywise/pw_body_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost"	".5"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"
+}
+

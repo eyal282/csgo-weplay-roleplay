@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/otwd/bridger/t_player_bridger_hair"
+
+	$translucent 1
+}
+

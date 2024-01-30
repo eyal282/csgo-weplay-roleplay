@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\custom_player\legacy\gxp\bioshock\doctor\gxp_head"
+    	"$bumpmap" "models\player\custom_player\legacy\gxp\bioshock\doctor\gxp_head_n"	
+
+ 	"$phong" "1"
+	"$phongexponent" "40"
+	"$phongboost"	".05"
+	"$phongfresnelranges"	"[2 2 8]"
+}
+
+

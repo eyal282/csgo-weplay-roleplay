@@ -1,0 +1,16 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/putin/arms_gloves"
+	"$bumpmap" "models/player/kuristaja/putin/arms_gloves_normal"
+
+	$detail "models/player/kuristaja/putin/dt_leather"
+	$detailscale 5
+	$detailblendfactor 1.7
+	$detailblendmode 0
+
+	"$phong" "1" 
+	"$phongboost" ".05" 
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	"$phongexponent" "50"
+}

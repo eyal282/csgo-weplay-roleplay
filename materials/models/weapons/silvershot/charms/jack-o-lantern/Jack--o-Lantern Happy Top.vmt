@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\jack-o-lantern\jack_happy_diffuse"
+	"$bumpmap" "models\weapons\silvershot\charms\jack-o-lantern\jack_happy_normal"
+	$phongexponenttexture "models\weapons\silvershot\charms\jack-o-lantern\jack_happy_specular"
+	"$nocull" 1
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "9"
+	"$phongboost" "0.2"
+	"$phongfresnelranges"	"[.05 0.1 0.3]"
+}

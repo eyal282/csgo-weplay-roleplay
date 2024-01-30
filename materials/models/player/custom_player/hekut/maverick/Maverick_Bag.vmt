@@ -1,0 +1,18 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/player/custom_player/hekut/maverick/Maverick_Bag_D"
+	"$bumpmap" "models/player/custom_player/hekut/maverick/Maverick_Bag_N"
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "0.05"
+	//"$lightwarptexture" "/shared/character_lightwarp"
+	"$phongfresnelranges"    "[.3 .5 1]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"						
+	"$rimlightexponent" "20"				
+	"$rimlightboost" ".25"
+	"$nocull" "0"
+	
+	"$basemapalphaphongmask" 1
+}

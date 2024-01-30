@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/player/kuristaja/sweet_tooth/sweettooth_gear_d"
+	"$bumpmap" "models/player/kuristaja/sweet_tooth/sweettooth_gear_normal"
+
+	"$phong"			"1"
+	"$phongboost"		".8"
+	"$phongexponent"		"50"
+	"$phongfresnelranges"	"[.5 .6 .8]"
+	"$nocull" "1"	
+
+	"$rimlight" "1"
+	"$rimlightexponent" "40"
+	"$rimlightboost" ".5"
+}

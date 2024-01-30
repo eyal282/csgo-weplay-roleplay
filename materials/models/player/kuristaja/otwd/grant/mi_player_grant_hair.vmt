@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/otwd/grant/t_player_grant_hair_hiro"
+
+	$translucent 1
+
+}
+

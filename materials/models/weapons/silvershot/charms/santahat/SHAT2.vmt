@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$model1		"1"
+	$Color2		"1 1 1"
+	"$basetexture" 	"models\weapons\silvershot\charms\santahat\SHAT2"
+	"$alphatest" 	"1"
+}

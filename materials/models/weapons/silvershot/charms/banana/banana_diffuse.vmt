@@ -1,0 +1,69 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\banana\banana_diffuse"
+	"$bumpmap" 	"models\weapons\silvershot\charms\banana\banana_normal"
+	$phongexponenttexture "models\weapons\silvershot\charms\banana\banana_specular"
+
+	$ambientocclusion 1
+	$nocull 1
+	$halflambert 0
+	"$nodecal" "1"
+	"$model" "1"
+
+	$phong 1
+	$phongboost 0.2
+	$phongexponent 3
+	$phongtint "[1 .85 .85]"
+	$phongfresnelranges "[.3 .85 30]"
+}"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\banana\banana_diffuse"
+	"$bumpmap" 	"models\weapons\silvershot\charms\banana\banana_normal"
+	$phongexponenttexture "models\weapons\silvershot\charms\banana\banana_specular"
+
+	$ambientocclusion 1
+	$nocull 1
+	$halflambert 0
+	"$nodecal" "1"
+	"$model" "1"
+
+	$phong 1
+	$phongboost 0.2
+	$phongexponent 3
+	$phongtint "[1 .85 .85]"
+	$phongfresnelranges "[.3 .85 30]"
+}"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\banana\banana_diffuse"
+	"$bumpmap" 	"models\weapons\silvershot\charms\banana\banana_normal"
+	$phongexponenttexture "models\weapons\silvershot\charms\banana\banana_specular"
+
+	$ambientocclusion 1
+	$nocull 1
+	$halflambert 0
+	"$nodecal" "1"
+	"$model" "1"
+
+	$phong 1
+	$phongboost 0.2
+	$phongexponent 3
+	$phongtint "[1 .85 .85]"
+	$phongfresnelranges "[.3 .85 30]"
+}"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\banana\banana_diffuse"
+	"$bumpmap" 	"models\weapons\silvershot\charms\banana\banana_normal"
+	$phongexponenttexture "models\weapons\silvershot\charms\banana\banana_specular"
+
+	$ambientocclusion 1
+	$nocull 1
+	$halflambert 0
+	"$nodecal" "1"
+	"$model" "1"
+
+	$phong 1
+	$phongboost 0.2
+	$phongexponent 3
+	$phongtint "[1 .85 .85]"
+	$phongfresnelranges "[.3 .85 30]"
+}

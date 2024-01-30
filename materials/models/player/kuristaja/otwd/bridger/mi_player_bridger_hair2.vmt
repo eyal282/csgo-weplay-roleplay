@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/otwd/bridger/t_player_bridger_hair"
+
+	$alphatest 1
+	$alphatestreference 0.7
+	$nocull 1
+}
+

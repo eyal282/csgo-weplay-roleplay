@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\kuristaja\mkx\jason\jason_eyes_diff"
+
+	"$translucent" "1"
+	"$nocull" "1"
+}

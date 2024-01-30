@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	// TRANSLUCENT
+	$basetexture "models\player\kuristaja\l4d2\rochelle\producer_hair_color"
+	$halflambert 1
+	$translucent 1
+	$nocull 1
+}

@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/voikanaa/acb/ezio/CR_U_Ezio_ArmShield_R3_DiffuseMap"
+	"$bumpmap" "models/player/voikanaa/acb/ezio/CR_U_Ezio_ArmShield_R3_NormalMap"
+	"$nocull" 1
+	"$alphatest" 1
+	
+	"$phong" "1"
+	"$phongBoost" "1"
+	"$phongExponent" "20"  
+	"$phongFresnelRanges" "[0 0.5 1]"
+	"$PhongAlbedoTint" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" ".1"
+}
+

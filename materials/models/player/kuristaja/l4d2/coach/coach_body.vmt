@@ -1,0 +1,12 @@
+vertexlitgeneric
+{
+	$baseTexture "models\player\kuristaja\l4d2\coach\coach_body_color"
+	$bumpmap "models\player\kuristaja\l4d2\coach\coach_body_normal"
+
+	$phong 1
+	$phongboost "1.4"
+	$phongexponent 9
+	$phongtint "[.85 .85 1]"
+	$halflambert 0
+	$phongfresnelranges "[.3 .65 30]"
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\night_fighter\putin\tie"
+	"$bumpmap" "models\player\night_fighter\putin\tie_n"
+	
+	"$phong"				"0"
+	"$phongboost"			"0.1"
+	"$phongexponent"		"100"
+	"$phongtint"			"[.85 .85 1]"
+	"$phongfresnelranges"	"[.5 .85 30]"
+	$rimlight 	1	
+	$rimlightexponent 50
+	$rimlightboost 0.1
+ 
+}
+

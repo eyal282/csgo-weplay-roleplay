@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\santahat\SHAT1"
+	"$bumpmap" "models\weapons\silvershot\charms\santahat\SHAT1N"
+	$phong			"1"
+	$phongboost		"2"
+	$phongexponent		"256"
+	$phongtint		"[0.8 0.3 0.3]"
+	$phongfresnelranges	"[0.3 0.3 0.3]"
+	$rimlight 			"1"
+	$rimlightexponent 		"50"
+	$rimlightboost 		"0.1"
+	$ambientocclusion 		"0"
+	$envmap			"models\weapons\silvershot\charms\santahat\cubemap"  	// Reflection environment map static
+	$envmaptint		"[0.05 0 0]"
+}

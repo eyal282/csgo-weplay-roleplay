@@ -1,0 +1,16 @@
+"VertexLitGeneric" 
+{ 
+	"$basetexture"	"models/player/kuristaja/ghostface/ghostface_hand" 
+	"$bumpmap" "models/player/kuristaja/ghostface/ghostface_hand_normal" 
+
+ 	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	".2"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	
+	// Rim lighting parameters
+	//"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"
+} 

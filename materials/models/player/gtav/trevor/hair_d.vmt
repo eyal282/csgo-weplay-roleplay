@@ -1,0 +1,8 @@
+vertexlitgeneric
+{
+	$basetexture "models/player/gtav/trevor/hair_d"
+	$bumpmap "models/player/gtav/trevor/hair_n"
+	$nocull 1
+	$alphatest 1
+	$alphatestreference .4
+}

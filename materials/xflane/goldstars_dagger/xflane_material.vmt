@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xflane\goldstars_dagger\xflane_material"
+	"$surfaceprop" "plastic"
+}

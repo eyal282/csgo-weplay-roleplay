@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture"		"models/player/kuristaja/christmas_miku/miku_textures"
+	//"$bumpmap"		"models/player/kuristaja/christmas_miku/"
+	
+
+	$alphatest 1
+	$alphatestreference .5
+	//$nocull 1
+
+	//"$phong"			1
+	"$phongboost"		2.2
+	"$phongexponent"		15.0
+	"$phongFresnelboost"	2
+	"$phongFresnelexponent"	3.0
+	"$phongtint"   		"[0.15 0.15 0.15]"
+
+	//"$rimlight"		1
+	"$rimlightexponent"		8 
+	"$rimlightboost"		1.0
+	"$rimmask"		0
+}

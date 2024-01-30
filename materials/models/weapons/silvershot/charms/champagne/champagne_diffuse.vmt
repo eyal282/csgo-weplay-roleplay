@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\champagne\champagne_diffuse"
+	"$bumpmap""models\weapons\silvershot\charms\champagne\champagne_normal"
+
+	$halflambert "1"
+	$phongexponent "40"
+	$phongfresnelranges	"[1 8 13]"
+	$nocull 1
+	$phong 1
+	$phongboost .04
+	$nodecal 1
+	$ambientocclusion 1
+	$detail "models\weapons\silvershot\charms\champagne\detail_metal"
+	$detailscale 16
+	$detailblendfactor 1.1
+	$detailblendmode 0
+}

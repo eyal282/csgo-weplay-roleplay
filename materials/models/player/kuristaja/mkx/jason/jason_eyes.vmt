@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\kuristaja\mkx\jason\jason_eyes_diff"
+	"$bumpmap" "models\player\kuristaja\mkx\jason\jason_eyes_normal"
+
+	"$phong" 			"1"
+	"$phongboost"			"55"
+	"$phongexponent"			"25"
+	"$phongfresnelranges"		"[.05 .1 .2]"
+}

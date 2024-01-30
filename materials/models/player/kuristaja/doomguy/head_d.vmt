@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/doomguy/head_d"
+	"$bumpmap" "models/player/kuristaja/doomguy/head_normal"
+}

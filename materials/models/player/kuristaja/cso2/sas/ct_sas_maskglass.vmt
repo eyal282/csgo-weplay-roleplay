@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/kuristaja/cso2/sas/ct_sas_maskglass"
+        	"$bumpmap" "models/player/kuristaja/cso2/sas/ct_sas_maskglass_normal"
+
+	"$envmap"		"env_cubemap"
+	"$envmaptint"		"[ .3 .3 .3 ]"
+	"$envmapcontrast"		0.5
+	"$envmapsaturation"	0.6
+	"$envmapboost"		0.6
+
+	"$phong"			1
+	"$phongboost"		3.0
+	"$phongexponent"		60
+	"$phongFresnelboost"	3
+	"$phongFresnelexponent"	9
+	"$phongtint"  		 "[0.15 0.15 0.15]"
+
+	"$normalmapalphaenvmapmask" 1
+	 $translucent  1
+}

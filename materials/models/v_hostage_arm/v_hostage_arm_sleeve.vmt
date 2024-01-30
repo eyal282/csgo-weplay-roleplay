@@ -1,0 +1,5 @@
+VertexlitGeneric
+{
+$basetexture "models\sausage\v_fausage_arm\v_sausage_arm_sleeve"
+$alpha 0
+}

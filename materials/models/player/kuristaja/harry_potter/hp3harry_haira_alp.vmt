@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/harry_potter/hp3harry_haira"
+	"$bumpmap" "models/player/kuristaja/harry_potter/hp3harry_haira_normal"
+	"$alphatest" 1
+	"$nocull" 1
+}

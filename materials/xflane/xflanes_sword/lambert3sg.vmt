@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "xflane\xflanes_sword\lambert3SG"
+	"$surfaceprop" "plastic"
+}

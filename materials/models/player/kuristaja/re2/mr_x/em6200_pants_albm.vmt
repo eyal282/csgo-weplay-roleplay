@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+    "$baseTexture" "models\player\kuristaja\re2\mr_x\em6200_pants_albm"
+    
+    "$bumpmap" "models\player\kuristaja\re2\mr_x\em6200_pants_normal"
+       
+	//"$nocull" "1"
+
+    "$phong" "1" //specular phong info
+    "$phongboost" "0.02" //specular phong info
+    "$phongexponent" "25" //specular phong info
+    "$phongfresnelranges"  "[.5 1.5 2]" //specular phong info
+
+    //"$rimlight" "1" //specular phong info related to rimlight
+    "$rimlightexponent" "10" //specular phong info related to rimlight
+    "$rimlightboost" "0.3" //specular phong info related to rimlight
+    
+}

@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\silvershot\charms\goldbar\gold_diffuse"
+	"$bumpmap" "models\weapons\silvershot\charms\goldbar\gold_normal"
+	$phongexponenttexture "models\weapons\silvershot\charms\goldbar\gold_specular"
+	$halflambert "1"
+	$phongexponent "40"
+	$phongfresnelranges	"[1 8 13]"
+	$nocull 1
+	$phong 1
+	$phongboost .15
+	$nodecal 1
+	$ambientocclusion 1
+	$detail "models\weapons\silvershot\charms\goldbar\detail_metal"
+	$detailscale 16
+	$detailblendfactor 1.1
+	$detailblendmode 0
+}

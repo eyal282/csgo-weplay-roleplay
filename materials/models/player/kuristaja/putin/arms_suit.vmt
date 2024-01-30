@@ -1,0 +1,10 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/putin/arms_suit"
+	"$bumpmap" "models/player/kuristaja/putin/arms_suit_normal"
+
+	"$phong" "1" 
+	"$phongboost" "0.02" 
+	"$phongfresnelranges" "[ .1 5 15]"
+	"$phongexponent" "20"
+}

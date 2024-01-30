@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/harry_potter/hp3harry_uniform"
+	"$bumpmap" "models/player/kuristaja/harry_potter/hp3harry_uniform_normal"
+}

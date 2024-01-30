@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/kuristaja/otwd/grant/t_player_grant_arms_fpp_bc"
+	"$bumpmap"	"models/player/kuristaja/otwd/grant/t_player_grant_arms_fpp_normal"
+
+ 	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost"	".4"
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+	
+	// Rim lighting parameters
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+	"$rimlightboost" "1"
+}
+

@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models\weapons\silvershot\charms\mustachio\mustachio"
+	$surfaceprop default
+}

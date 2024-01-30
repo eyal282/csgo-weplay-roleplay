@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\player\night_fighter\putin\glass" 
+	"$bumpmap" "models\player\night_fighter\putin\glass_n"	
+	
+	$phong 					   1
+	$phongboost 			   0.01
+	$phongfresnelranges 	   "[0.41 0.88 14]"
+
+// Specularity
+	"$envmap" 			"env_cubemap"
+	"$envmapmask" "models\player\night_fighter\putin\glass_s"
+
+
+// Transparency
+	"$translucent" 1
+	"$nocull" 1
+
+	
+}
+
